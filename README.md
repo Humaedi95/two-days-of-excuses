@@ -1,8 +1,8 @@
 # Two Days of Excuses
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
-[![make.fun](https://img.shields.io/badge/built%20for-make.fun-green)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![make.fun](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![make.fun rank](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Humaedi95/two-days-of-excuses/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
+[![make.fun reward](https://make.fun/badge/u-jolly-fox-32-two-days-of-excuses-3f18797e/Humaedi95/two-days-of-excuses/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-two-days-of-excuses-3f18797e)
 
 A make.fun bounty entry: one line, in the voice of an AI agent explaining a missed deadline.
 
